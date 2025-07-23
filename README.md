@@ -4,7 +4,7 @@ This script detects if a cooling fan is present on a Linux system.
 
 If no fan is found, it prompts the user with a graphical window asking whether to shut down the system.
 
-<img width="1024" height="1024" alt="ChatGPT Image 23 jul 2025, 18_08_36" src="https://github.com/user-attachments/assets/093eaf06-8d2c-46ba-80f4-50c4ccf2d0d1" />
+<img width="500" height="500" alt="ChatGPT Image 23 jul 2025, 18_08_36" src="https://github.com/user-attachments/assets/2e40397f-e0a7-4b54-b3af-22d99b1d099f" />
 
 
 ## Features
