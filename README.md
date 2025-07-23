@@ -16,7 +16,6 @@ If no fan is found, it prompts the user with a graphical window asking whether t
   - manually labeled GPIO pins
 - If no fan is detected, shows a GUI confirmation dialog (via Zenity)
 - Logs to `/var/log/fan_check.log`
-- Intended for Raspberry Pi but works on any Linux system with a desktop environment
 
 ## Requirements
 
@@ -49,6 +48,7 @@ You can run the script manually at any time:
 ```bash
 /usr/local/bin/check_fan.sh
 ```
+Check the logs after executing.
 
 ## Logging
 
