@@ -1,6 +1,6 @@
 # Fan Checker for Linux with GUI
 
-This script detects if a cooling fan is present on a Linux system (e.g., Raspberry Pi). If no fan is found, it prompts the user with a graphical window asking whether to shut down the system.
+This script detects if a cooling fan is present on a Linux system. If no fan is found, it prompts the user with a graphical window asking whether to shut down the system.
 
 ## Features
 
