@@ -1,8 +1,8 @@
-# Fan Checker for Linux with GUI
+# Startup Fan Checker for Linux
 
-This script detects if a cooling fan is present on a Linux system. 
+This script runs at system startup/login and checks if a cooling fan is present on a Linux system.
 
-If no fan is found, it prompts the user with a graphical window asking whether to shut down the system.
+If no fan is detected during startup, it shows a graphical prompt asking the user whether to shut down the system.
 
 <img width="500" height="500" alt="ChatGPT Image 23 jul 2025, 18_08_36" src="https://github.com/user-attachments/assets/2e40397f-e0a7-4b54-b3af-22d99b1d099f" />
 
